@@ -1,0 +1,11 @@
+{
+  "name": "compute-rarities",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:stailer-nft/compute-rarities.git",
+  "author": "theadriann <adrian.brojbeanu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "decimal.js": "^10.3.1"
+  }
+}
